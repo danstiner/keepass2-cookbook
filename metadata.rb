@@ -1,0 +1,7 @@
+name             'keepass2'
+maintainer       'Daniel Stiner'
+maintainer_email 'daniel.stiner@gmail.com'
+license          'All rights reserved'
+description      'Installs/Configures keepass2'
+long_description 'Installs/Configures keepass2'
+version          '0.1.0'
